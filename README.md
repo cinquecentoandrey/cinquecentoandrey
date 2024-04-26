@@ -1,4 +1,4 @@
-# Skills
+# 500 code as usual
 ![](https://skillicons.dev/icons?i=java,spring,idea&theme=light)
 
 ![](https://skillicons.dev/icons?i=postgres,hibernate,maven&theme=light)
